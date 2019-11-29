@@ -1,0 +1,43 @@
+*{
+margin:0;
+padding:20px 50px;
+}
+.c1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
+.p{
+	margin-left: 115px;
+}
+.q{
+	margin-top: 10px;
+	margin-left:135px;
+}
+.r{
+margin-top: 10px;
+	margin-left:132px;
+}
+.s{
+margin-top: 10px;
+	margin-left:115px;
+}
+.t{
+margin-top: 10px;
+	margin-left:26px;
+}
+.u{
+margin-top: 10px;
+	margin-left:135px;
+}
+.v{
+	margin-top: 10px;
+	margin-left:130px;
+}
+.c2{
+	margin-top: 20px;
+}
+#id1{
+	margin-left: 90px;
+}
